@@ -198,7 +198,7 @@
 		opacity: 0;
 		position: relative;
 		text-align: center;
-		top: -5em;
+		top: -2.5em;
 		vertical-align: middle;
 		width: 90%;
 	}
@@ -218,6 +218,12 @@
 
 		#header nav {
 			margin: 1.5em 0 0 0;
+		}
+
+		#header div {
+			text-align: left;
+			font-size: 0.90em;
+			opacity: 0.75;
 		}
 
 			#header nav li {
@@ -390,3 +396,6 @@
 		text-align: center;
 		width: 100%;
 	}
+
+	/* Read More section*
+	
