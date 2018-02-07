@@ -223,7 +223,7 @@
 		#header div {
 			text-align: left;
 			font-size: 0.90em;
-			opacity: 0.75;
+			opacity: 1.00;
 		}
 
 			#header nav li {
@@ -396,6 +396,3 @@
 		text-align: center;
 		width: 100%;
 	}
-
-	/* Read More section*
-	
